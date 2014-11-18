@@ -21,6 +21,7 @@ $ middleman init new_project --template=middleman-bourbon-neat
 Complete the bundle installation.
 
 ```
+$ cd new_project
 $ bundle install
 ```
 
@@ -34,3 +35,6 @@ Open a browser.
 ```
 $ open http://localhost:4567
 ```
+
+* Edit files in the `source/` directory.
+* Modify styles in `source/stylesheets/`.
