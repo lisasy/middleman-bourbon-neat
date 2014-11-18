@@ -5,11 +5,10 @@ Create a [Middleman](http://middlemanapp.com/) site using
 
 ### Getting Started
 
-First, clone this repo into your local setup.
+First, clone this repo into your local machine.
 
 ```
-$ git clone git@github.com:lisasy/middleman-bourbon-neat.git
-~/.middleman/middleman-bourbon-neat
+$ git clone git@github.com:lisasy/middleman-bourbon-neat.git ~/.middleman/middleman-bourbon-neat
 ```
 
 Initialize this template when creating a new project.
