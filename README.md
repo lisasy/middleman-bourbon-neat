@@ -27,10 +27,10 @@ $ bundle install
 Run the server.
 
 ```
-middleman
+$ middleman
 ```
 Open a browser.
 
 ```
-open http://localhost:4567
+$ open http://localhost:4567
 ```
